@@ -1,4 +1,4 @@
-# English-French-using-Keras
+# Neural-Machine-Translation-System-in-Keras
 
 This project involves using Python and Jupyter Notebook that allows you to translate English sentence to French sentence using Deep Learning keras Model.
  
@@ -7,7 +7,7 @@ This project involves using Python and Jupyter Notebook that allows you to trans
 Download the code from the github:
 
 ```
-git clone https://github.com/Mayurgupta3/English-French-using-Keras
+git clone https://github.com/Mayurgupta3/Neural-Machine-Translation-System-in-Keras
 ```
 
 ### Installing
